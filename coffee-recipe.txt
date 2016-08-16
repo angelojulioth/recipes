@@ -1,0 +1,9 @@
+Materials:
+	1.Coffee
+	2.Water
+	3.Sugar
+
+Instructions:
+	1.Heat the water
+	2.Put coffee into the water
+	3.Add sugar
